@@ -4,6 +4,11 @@ scavenger :  is a multi-threaded post-exploitation scanning tool for scavenging 
 ## Problem Definition:
 Scavenger confronts a challenging issue typically faced by Penetration Testing consultants during internal penetration tests; the issue of having too much access to too many systems with limited days for testing.
 
+### Requirements:
+
+* Install CrackMapExec -
+[CrackMapExec Installation Page](https://github.com/byt3bl33d3r/CrackMapExec/wiki/Installation)
+
 ### Examples:
 
 ```
