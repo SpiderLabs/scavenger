@@ -13,7 +13,7 @@
 
 __author__ = 'Philip (haxrbyte) Pieterse'
 __email__ = 'ppieterse@trustwave.com'
-__git__ = 'to be created'
+__git__ = 'https://github.com/SpiderLabs/scavenger.git'
 __twitter__ = 'http://twitter.com/haxrbyte'
 __version__ = 'v1.0'
 __license__ = 'GPLv3.0'
